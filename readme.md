@@ -8,3 +8,6 @@ A fun game to play to test the limits of your memory. This Card Memory game is A
 ![Screen Shot 2023-02-02 at 12 17 12 AM](https://user-images.githubusercontent.com/80484823/216243106-9ca6dfa4-ba20-4c27-b000-80a7b2c492fb.png)
 <img width="1158" alt="Screen Shot 2023-02-02 at 12 55 18 AM" src="https://user-images.githubusercontent.com/80484823/216243422-c6bd74a6-62e1-4e37-b1d6-03b118deee06.png">
 ![Screen Shot 2023-02-02 at 12 40 20 AM](https://user-images.githubusercontent.com/80484823/216243126-e57559aa-071f-4abb-ab1f-e05400b1be02.png)
+
+## Technologies Used
+This project was created using HTML, CSS, and Vanilla JavaScript. 
