@@ -1,2 +1,10 @@
 # Anime Card Memory Game
 
+A fun game to play to test the limits of your memory. This Card Memory game is anime themed and the home page is based off Price Zuko. The card images are randomized each game which makes different each time you play.
+
+## Screenshots
+
+![Screen Shot 2023-02-02 at 12 38 29 AM](https://user-images.githubusercontent.com/80484823/216243088-c34ede35-fd5b-4c03-8a04-fbdece1ceafe.png)
+![Screen Shot 2023-02-02 at 12 17 12 AM](https://user-images.githubusercontent.com/80484823/216243106-9ca6dfa4-ba20-4c27-b000-80a7b2c492fb.png)
+![Screen Shot 2023-02-02 at 12 16 46 AM 2](https://user-images.githubusercontent.com/80484823/216243115-b5d09f12-dc4c-41b4-8f70-3a21a018a950.png)
+![Screen Shot 2023-02-02 at 12 40 20 AM](https://user-images.githubusercontent.com/80484823/216243126-e57559aa-071f-4abb-ab1f-e05400b1be02.png)
