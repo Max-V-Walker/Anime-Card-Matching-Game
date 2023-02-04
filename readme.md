@@ -2,6 +2,8 @@
 
 A fun game to play to test the limits of your memory. This Card Memory game is Anime themed and the home page is inspired by Prince Zuko of the Fire Nation. The card images are randomized each game which makes different each time you play.
 
+https://max-v-walker.github.io/Anime-Card-Memory-Game/
+
 ## Screenshots
 
 ![Screen Shot 2023-02-02 at 12 38 29 AM](https://user-images.githubusercontent.com/80484823/216243088-c34ede35-fd5b-4c03-8a04-fbdece1ceafe.png)
