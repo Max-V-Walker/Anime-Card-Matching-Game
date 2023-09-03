@@ -1,6 +1,6 @@
 # Anime Card Matching Game
 
-A fun game to play to test the limits of your memory. This Card Memory game is Anime themed and the home page is inspired by Prince Zuko of the Fire Nation. The card images are randomized each game which makes different each time you play.
+A fun game to play to test the limits of your memory. This Card Memory game is Anime themed and the home page is inspired by Prince Zuko of the Fire Nation. The card images are randomized each game which makes it different each time you play.
 
 https://max-v-walker.github.io/Anime-Card-Matching-Game/
 
